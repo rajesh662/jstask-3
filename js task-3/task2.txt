@@ -1,0 +1,11 @@
+1. Print N numbers in sequence loop
+2. Print N numbers in reverse order loop
+3. Print first N even numbers loop
+4. Print N odd numbers loop
+5. Swap Two Numbers Using function
+6. Use function and looping: 1.get name from user 2.get number of times user name will print 
+Sample output: name=xyz number of times= 3 
+output: xyz
+        xyz
+        xyz
+7. Factorial of a number using for loop
